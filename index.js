@@ -8,7 +8,7 @@ var instruments = ["guitar", "bass", "guitar", "drums"];
 var arr = [];
 
 for (i = 0; i < arr.length; i++) {
-  array.push("musicians[i] + ' plays ' + instruments[i]");
+  arr.push("musicians[i] + ' plays ' + instruments[i]");
 }
 
 console.log(arr);
