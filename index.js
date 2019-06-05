@@ -8,8 +8,3 @@ function theBeatlesPlay(musicians, instruments) {
   emptyArr.push("musicians[i] + ' plays ' + instruments[i]");
 }
 
-
-
-
-var arr = [];
-
